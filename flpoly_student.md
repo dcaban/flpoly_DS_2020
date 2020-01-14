@@ -1,23 +1,23 @@
-## First Name Last Name
+## David Caban
 
 ### Spring 2020 
 
 Data Science student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Trig
 
-- Course 2
+- Intro to Data Science
 
-- Course 3
+- Business Law
 
-- Course 4
+- Business Finance
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Instant Film
 
-- Thing 2
+- Bikes
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Public Radio <https://www.npr.org>

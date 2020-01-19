@@ -4,13 +4,16 @@
 
 Data Science student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Trig
 
-- Intro to Data Science
+| Prefix | ClassNumber | Name                        | Credits |
+| ------ | ------      | ------                      | ------  |
+| COP    | 2073        | *Intro to data science*     | 3       |
+| FIN    | 2001        | *Business Finance*          | 3       |
+| BUL    | 2241        | *Intro to data science*     | 3       |
+| MAC    | 1147        | *Precalc and Trig*          | 3       |
 
-- Business Law
+Table: Classes
 
-- Business Finance
 
 **Hobbies:**
 
